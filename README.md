@@ -10,7 +10,7 @@
 - Создание веток (branches)
 - Pull Request и код-ревью
 
-## 👥  Участн
+## 👥  Участники
 | Роль | Имя | GitHub |
 |------|-----|--------|
 | Студент А (владелец upstream) | Тимофей Васильев | [Mason-Fox-ai](https://github.com/Mason-Fox-ai) |

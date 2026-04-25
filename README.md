@@ -13,7 +13,7 @@
 ## 👥  Участн
 | Роль | Имя | GitHub |
 |------|-----|--------|
-| Студент А (владелец upstream) | Тимофей Васильев | [Mason-Fox-ai](https://github.com/Mason-Fox-ai)) |
+| Студент А (владелец upstream) | Тимофей Васильев | [Mason-Fox-ai](https://github.com/Mason-Fox-ai) |
 | Студент Б (форк, PR) | София Пасечникова | [ZabGit](https://github.com/ZabGit) |
 
 ## 🛠️  Что было сделано

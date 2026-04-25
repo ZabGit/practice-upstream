@@ -15,7 +15,7 @@
 | Роль | Имя | GitHub |
 |------|-----|--------|
 | Студент А (владелец upstream) | Тимофей Васильев | [prohorovicdara491-art](https://github.com/prohorovicdara491-art) |
-| Студент Б (форк, PR) | София Пасечникова | [KuksenkoNikodim](https://github.com/KuksenkoNikodim) |
+| Студент Б (форк, PR) | София Пасечникова | [ZabGit](https://github.com/ZabGit) |
 
 ## 🛠️  Что было сделано
 
@@ -33,7 +33,7 @@
 ## 📁  Файлы в репозитории
 
 - `README.md` — этот файл
-- `.txt` — файл, добавленный Софией через Pull Request
+- `София Сергеевна.txt` — файл, добавленный Софией через Pull Request
 
 ## 🎯  Результат
 

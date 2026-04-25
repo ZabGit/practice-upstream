@@ -10,11 +10,10 @@
 - Создание веток (branches)
 - Pull Request и код-ревью
 
-## 👥  Участники
-
+## 👥  Участн
 | Роль | Имя | GitHub |
 |------|-----|--------|
-| Студент А (владелец upstream) | Тимофей Васильев | [prohorovicdara491-art](https://github.com/prohorovicdara491-art) |
+| Студент А (владелец upstream) | Тимофей Васильев | [Mason-Fox-ai](https://github.com/Mason-Fox-ai)) |
 | Студент Б (форк, PR) | София Пасечникова | [ZabGit](https://github.com/ZabGit) |
 
 ## 🛠️  Что было сделано
